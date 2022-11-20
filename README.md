@@ -1,6 +1,6 @@
 La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir
 
-<B>I) Stratégie globale</B>
+I) Stratégie globale
 
 <B>A) Historique de la création de la base de données</B>
   
