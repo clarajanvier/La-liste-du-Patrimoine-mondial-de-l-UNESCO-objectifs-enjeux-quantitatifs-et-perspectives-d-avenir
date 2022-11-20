@@ -74,4 +74,4 @@ Dans les faits, ces efforts sont matérialisés par plusieurs actions.
 Pendant la pandémie de Covid-19 et dans le cadre de la campagne #ShareOurHeritage, l’UNESCO a également organisé une exposition interactive en ligne présentant des dizaines de biens du patrimoine mondial du monde entier afin de favoriser l'accès à la culture pendant la période de confinement massif.
 
 -	La préservation des biens inscrits est permise par le <B>renforcement des liens entre le patrimoine et l’éducation</B>. A titre d’exemples, le Programme d’Education des jeunes au Patrimoine Mondial a permis à plus de 3500 jeunes volontaires d’apprendre la valeur du patrimoine en participant à 359 camps de jeunes dans 61 pays. Des jeunes provenant de 17 pays du monde arabe ont quant à eux participé au Forum Arabe des Jeunes Professionnels du Patrimoine Mondial en Décembre 2019. Ces jeunes ont ainsi été sensibilisés aux liens entre la construction de la paix et la protection, la préservation et la promotion du Patrimoine Mondial.
- 
+  
