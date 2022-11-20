@@ -1,9 +1,68 @@
 La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir
 
-<B>I) Stratégie globale</B>
+<B>I) Définition du patrimoine mondial de l’UNESCO</B>
 
-<B>A) Historique de la création de la base de données</B>
-  
+<B>A) Historique de la création et critères de sélection</B>
+
+Le <B>Patrimoine mondial de l’UNESCO</B> désigne un ensemble de biens culturels et naturels présentant un intérêt exceptionnel pour l’héritage commun de l’humanité. Le patrimoine fait l’objet d’un traité international intitulé <B>« Convention pour la protection du patrimoine mondial, culturel et naturel »</B>, adopté par l’UNESCO en <B>1972</B>, actualisé chaque année depuis 1978 par le Comité du patrimoine mondial de l'Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO), une institution spécialisée de l'Organisation des Nations unies.
+ 
+L’idée d’un patrimoine mondial tire son origine de la <B>conception antique des 7 merveilles du monde</B>. Sa forme actuelle fait suite à plusieurs évènements. En 1954, la Convention de La Haye, premier traité pour la protection des biens culturels en cas de conflit armé, est signée. Puis, en 1964, l'UNESCO entreprend les travaux de sauvetage des temples d'Abou Simbel contre la montée des eaux du lac Nasser, à la suite de la construction du haut barrage d'Assouan en Égypte. Le succès de cette coopération internationale de grande envergure a été suivi d’autres campagnes de sauvegarde, notamment pour sauver Venise et sa lagune (Italie) et les ruines archéologiques de Mohenjo Daro (Pakistan), ou encore pour restaurer l'Ensemble de Borobudur (Indonésie). Ces campagnes exceptionnelles ont attiré l’attention sur le fait que partout dans le monde, certains endroits ont une <B>valeur exceptionnelle</B> pour l’Humanité entière et doivent donc être protégés contre des dangers tels que les conflits armés, la destruction délibérée, la vie sociale, la pression économique, les catastrophes naturelles et le changement climatique. En raison de la valeur immense du patrimoine pour les générations présentes et futures, contrer les menaces grandissantes auxquelles il fait actuellement face n’a jamais été aussi important. Ainsi, en 1965, les Etats-Unis demandent la création d’une Fondation mondiale pour préserver les sites culturels et naturels.
+
+Par conséquent, l’UNESCO (l’organisation des Nations Unies pour l’éducation, la science et la culture fondée en 1945), avec l’aide du Conseil international des monuments et des sites (ICOMOS), a amorcé la préparation d’un projet de convention sur la protection du patrimoine culturel. Le <B>« Patrimoine de l’Humanité »</B>, ou <B>« Patrimoine mondial de l’UNESCO »</B>, était né. 
+ 
+Enfin, en 1972 est signée la Convention pour la protection du patrimoine mondial, culturel et naturel, suivie en 1976 de la création du Comité du patrimoine mondial et en 1978 des premiers sites inscrits sur la liste du patrimoine mondial. 
+
+Le <B>patrimoine culturel mondial</B> comprend des monuments, des sites urbains ou archéologiques, ou des sites qui combinent le travail de l’homme et de la nature, tandis que le <B>patrimoine naturel</B> inclut des caractéristiques naturelles, des formations géographiques ou des sites naturels. En considérant le patrimoine sous ses aspects culturels aussi bien que naturels, la Convention nous rappelle l’interaction entre l’être humain et la nature et la nécessité fondamentale de préserver l’équilibre entre les deux. Des biens au caractère mixte (présentant une nature à la fois culturelle et naturelle) sont également protégés.
+
+<B>B) Objectifs et définition des critères de sélection<B>
+
+Depuis sa création, l’UNESCO s’efforce de préserver le patrimoine afin que les générations futures puissent profiter, bénéficier et apprendre de l’héritage du passé, comme en témoigne la Convention de 1972 qui dispose : <I>« Le patrimoine est l'héritage du passé dont nous profitons aujourd'hui et que nous transmettons aux générations à venir. Nos patrimoines culturel et naturel sont deux sources irremplaçables de vie et d'inspiration »</I>. Son action est toujours guidée par des objectifs prédominants qui reposent sur la volonté de sensibiliser sur les ravages des deux guerres mondiales, de promouvoir le dialogue et l’amitié entre les peuples et d’assurer durablement la paix. La Convention du Patrimoine mondial revêt <B>5 objectifs stratégiques<B>, aussi appelés les <B>« 5 C »</B> afin de faire rayonner ces ambitions historiques. 
+ 
+- La <B>crédibilité</B> : renforcer la crédibilité de la liste du Patrimoine mondial en tant que « témoignage représentatif, géographiquement équilibré, des biens culturels et naturels de valeur universelle exceptionnelle ».
+ 
+- La <B>conservation</B> : assurer la conservation efficace des biens du patrimoine mondial. L’objectif sous-jacent est de préserver et transmettre le patrimoine aux générations futures en garantissant la protection et la sauvegarde des patrimoines historiques, culturels et naturels au moyen d’un engagement entre l’UNESCO et le pays détenant les biens à valoriser. Une telle inscription encourage ce dernier à s’engager pour le maîtriser et le valoriser, notamment par l’établissement de rapports sur l’état de conservation du patrimoine désormais commun à l’Humanité pour écarter toute menace sur la valeur du bien qui a été reconnue, que l’on appelle « valeur universelle exceptionnelle ».
+
+- Le <B>développement des capacités</B> : promouvoir la mise en place de mesures efficaces assurant le développement des capacités, pour favoriser la compréhension et la mise en œuvre de la Convention du patrimoine mondial et des instruments associés, y compris par l'aide à la préparation de propositions d'inscription de biens sur la Liste du patrimoine mondial.
+
+- La <B>communication</B> : développer la communication pour sensibiliser le public et l’alerter sur la fragilité et la rareté des biens inscrits et encourager sa participation et son appui au patrimoine mondial pour permettre la pérennité des biens pour les générations futures.
+
+- Les <B>communautés</B> : valoriser le rôle des communautés dans la mise en œuvre de la Convention du patrimoine mondial.
+ 
+Pour mener à bien l'objectif principal de la liste du patrimoine mondial de faire connaître et de protéger les sites que l’Organisation considère comme exceptionnels, des <B>critères de sélection</B> ont été mis en place. À l'origine, seuls existaient les sites culturels (1978), dont l'inscription sur la liste était régie par 6 critères. Puis, dans un souci de rééquilibrer la localisation du Patrimoine mondial entre les continents, il a été décidé d’intégrer les sites naturels avec 4 critères qui leur étaient propres. Enfin, en 2005, tous les critères ont été fondus en 10 critères uniques applicables à tous les sites. Chaque bien doit satisfaire l’un des critères suivants :
+
+(i) Représenter un chef-d'œuvre du génie créateur humain ;
+ 
+(ii) Témoigner d'un échange d'influences considérable pendant une période donnée ou dans une aire culturelle déterminée, sur le développement de l'architecture ou de la technologie, des arts monumentaux, de la planification des villes ou de la création de paysages ;
+ 
+(iii) Apporter un témoignage unique ou du moins exceptionnel sur une tradition culturelle ou une civilisation vivante ou disparue ;
+
+(iv) Offrir un exemple éminent d'un type de construction ou d'ensemble architectural ou technologique ou de paysage illustrant une ou des périodes significative(s) de l'histoire humaine ;
+ 
+(v) Être un exemple éminent d'établissement humain traditionnel, de l'utilisation traditionnelle du territoire ou de la mer, qui soit représentatif d'une culture (ou de cultures), ou de l'interaction humaine avec l'environnement, spécialement quand celui-ci est devenu vulnérable sous l'impact d'une mutation irréversible ;
+ 
+(vi) Être directement ou matériellement associé à des événements ou des traditions vivantes, des idées, des croyances ou des œuvres artistiques et littéraires ayant une signification universelle exceptionnelle (Le Comité considère que ce critère doit préférablement être utilisé en conjonction avec d'autres critères) ;
+ 
+(vii) Représenter des phénomènes naturels ou des aires d'une beauté naturelle et d'une importance esthétique exceptionnelles ;
+ 
+(viii) Être des exemples éminemment représentatifs des grands stades de l'histoire de la terre, y compris le témoignage de la vie, de processus géologiques en cours dans le développement des formes terrestres ou d'éléments géomorphiques ou physiographiques ayant une grande signification ;
+ 
+(ix) Être des exemples éminemment représentatifs de processus écologiques et biologiques en cours dans l'évolution et le développement des écosystèmes et communautés de plantes et d'animaux terrestres, aquatiques, côtiers et marins ;
+ 
+(x) Contenir les habitats naturels les plus représentatifs et les plus importants pour la conservation in situ de la diversité biologique, y compris ceux où survivent des espèces menacées ayant une valeur universelle exceptionnelle du point de vue de la science ou de la conservation.
+
+<B>C) Résultat de l’inscription</B>
+
+La conservation, la gestion et la transmission aux générations futures des biens inscrits sur la liste du patrimoine mondial incombent en premier lieu à l’État partie signataire de la convention. Cependant l’inscription sur la liste postule que ces biens appartiennent également à l’« Humanité » et sont ainsi placés sous une sorte de sauvegarde internationale. Il y a donc un système de coopération et d’assistance pour aider l’État partie, notamment d'un point de vue financier et matériel. Effectivement, un avantage majeur de la ratification, en particulier pour les pays en développement, est d’avoir accès au Fonds du patrimoine mondial. Chaque année, environ quatre millions de dollars EU sont alloués pour aider des Etats parties à identifier, préserver et promouvoir des sites du patrimoine mondial.
+ 
+Les sites inscrits sur la Liste du patrimoine mondial bénéficient aussi de l’élaboration et de la mise en œuvre de plans de gestion qui définissent des mesures de préservation et des mécanismes de suivi adéquats, sans pour autant que la communauté n’intervienne directement dans la gestion des biens. 
+
+Enfin, l’inscription d’un site sur la Liste du patrimoine mondial entraîne une plus grande sensibilisation du public au site et à ses valeurs exceptionnelles, ce qui renforce les activités touristiques sur le site et peuvent constituer une source majeure de fonds pour le site et l’économie locale.
+ 
+<B>D) Organisation</B>
+
+L’Assemblée générale des États parties à la Convention du patrimoine mondial est composée de représentants de tous les États parties à la Convention du patrimoine mondial. Elle se réunit tous les deux ans lors des sessions de la Conférence générale de l’UNESCO. Chaque État y dispose d’une voix, quelles que soient sa taille ou l’importance de sa contribution au Fonds du patrimoine mondial.
+
+
 <B>II) Autour de la base de données : objectifs et enjeux de la politique de protection patrimoniale</B>
 
 <B>A)	Pourquoi inscrire les monuments au patrimoine mondial de l’UNESCO : enjeux historiques et usages actuels</B>
