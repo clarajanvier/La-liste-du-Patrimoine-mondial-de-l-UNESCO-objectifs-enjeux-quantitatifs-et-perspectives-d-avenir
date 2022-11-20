@@ -1,4 +1,4 @@
-La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir
+<B>La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir</B>
 
 <B>I) Définition du patrimoine mondial de l’UNESCO</B>
 
@@ -14,7 +14,7 @@ Enfin, en 1972 est signée la Convention pour la protection du patrimoine mondia
 
 Le <B>patrimoine culturel mondial</B> comprend des monuments, des sites urbains ou archéologiques, ou des sites qui combinent le travail de l’homme et de la nature, tandis que le <B>patrimoine naturel</B> inclut des caractéristiques naturelles, des formations géographiques ou des sites naturels. En considérant le patrimoine sous ses aspects culturels aussi bien que naturels, la Convention nous rappelle l’interaction entre l’être humain et la nature et la nécessité fondamentale de préserver l’équilibre entre les deux. Des biens au caractère mixte (présentant une nature à la fois culturelle et naturelle) sont également protégés.
 
-<B>B) Objectifs et définition des critères de sélection<B>
+<B>B) Objectifs et définition des critères de sélection</B>
 
 Depuis sa création, l’UNESCO s’efforce de préserver le patrimoine afin que les générations futures puissent profiter, bénéficier et apprendre de l’héritage du passé, comme en témoigne la Convention de 1972 qui dispose : <I>« Le patrimoine est l'héritage du passé dont nous profitons aujourd'hui et que nous transmettons aux générations à venir. Nos patrimoines culturel et naturel sont deux sources irremplaçables de vie et d'inspiration »</I>. Son action est toujours guidée par des objectifs prédominants qui reposent sur la volonté de sensibiliser sur les ravages des deux guerres mondiales, de promouvoir le dialogue et l’amitié entre les peuples et d’assurer durablement la paix. La Convention du Patrimoine mondial revêt <B>5 objectifs stratégiques<B>, aussi appelés les <B>« 5 C »</B> afin de faire rayonner ces ambitions historiques. 
  
