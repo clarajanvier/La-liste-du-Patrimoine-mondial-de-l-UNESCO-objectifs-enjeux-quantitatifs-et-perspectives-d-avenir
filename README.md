@@ -7,7 +7,7 @@ I) Stratégie globale
 
   <B>A)	Pourquoi inscrire les monuments au patrimoine mondial de l’UNESCO : enjeux historiques et usages actuels</B>
 
-    <B>1)	Protéger le patrimoine : pourquoi ?</B> 
+    1)	Protéger le patrimoine : pourquoi ?
 
 Dans les années 1960, la construction du barrage d’Assouan en Égypte a menacé d’engloutir les anciens temples d’Abou Simbel, trésors de la civilisation de l’Égypte ancienne. Une mission internationale de sauvetage a été organisée pour les sauver en les déplaçant sur un terrain plus élevé. Le succès de cette coopération internationale de grande envergure a été suivi d’autres campagnes de sauvegarde, notamment pour sauver Venise et sa lagune (Italie) et les ruines archéologiques de Mohenjo Daro (Pakistan), ou encore pour restaurer l'Ensemble de Borobudur (Indonésie). Ces campagnes exceptionnelles ont attiré l’attention sur le fait que partout dans le monde, certains endroits ont une <B>valeur exceptionnelle</B> pour l’Humanité entière et doivent donc être protégés contre des dangers tels que les conflits armés, la destruction délibérée, la vie sociale, la pression économique, les catastrophes naturelles et le changement climatique. En raison de la valeur immense du patrimoine pour les générations présentes et futures, contrer les menaces grandissantes auxquelles il fait actuellement face n’a jamais été aussi important.
 
