@@ -5,11 +5,11 @@ I) Stratégie globale
   
 <B>II) Autour de la base de données : objectifs et enjeux de la politique de protection patrimoniale</B>
 
-  <B>A)	Pourquoi inscrire les monuments au patrimoine mondial de l’UNESCO : enjeux historiques et usages actuels</B>
+<B>A)	Pourquoi inscrire les monuments au patrimoine mondial de l’UNESCO : enjeux historiques et usages actuels</B>
 
-    1)	Protéger le patrimoine : pourquoi ?
-
-Dans les années 1960, la construction du barrage d’Assouan en Égypte a menacé d’engloutir les anciens temples d’Abou Simbel, trésors de la civilisation de l’Égypte ancienne. Une mission internationale de sauvetage a été organisée pour les sauver en les déplaçant sur un terrain plus élevé. Le succès de cette coopération internationale de grande envergure a été suivi d’autres campagnes de sauvegarde, notamment pour sauver Venise et sa lagune (Italie) et les ruines archéologiques de Mohenjo Daro (Pakistan), ou encore pour restaurer l'Ensemble de Borobudur (Indonésie). Ces campagnes exceptionnelles ont attiré l’attention sur le fait que partout dans le monde, certains endroits ont une <B>valeur exceptionnelle</B> pour l’Humanité entière et doivent donc être protégés contre des dangers tels que les conflits armés, la destruction délibérée, la vie sociale, la pression économique, les catastrophes naturelles et le changement climatique. En raison de la valeur immense du patrimoine pour les générations présentes et futures, contrer les menaces grandissantes auxquelles il fait actuellement face n’a jamais été aussi important.
+<B>1)Protéger le patrimoine : pourquoi ?</B>
+ 
+ Dans les années 1960, la construction du barrage d’Assouan en Égypte a menacé d’engloutir les anciens temples d’Abou Simbel, trésors de la civilisation de l’Égypte ancienne. Une mission internationale de sauvetage a été organisée pour les sauver en les déplaçant sur un terrain plus élevé. Le succès de cette coopération internationale de grande envergure a été suivi d’autres campagnes de sauvegarde, notamment pour sauver Venise et sa lagune (Italie) et les ruines archéologiques de Mohenjo Daro (Pakistan), ou encore pour restaurer l'Ensemble de Borobudur (Indonésie). Ces campagnes exceptionnelles ont attiré l’attention sur le fait que partout dans le monde, certains endroits ont une <B>valeur exceptionnelle</B> pour l’Humanité entière et doivent donc être protégés contre des dangers tels que les conflits armés, la destruction délibérée, la vie sociale, la pression économique, les catastrophes naturelles et le changement climatique. En raison de la valeur immense du patrimoine pour les générations présentes et futures, contrer les menaces grandissantes auxquelles il fait actuellement face n’a jamais été aussi important.
 
 Par conséquent, l’UNESCO (l’organisation des Nations Unies pour l’éducation, la science et la culture fondée en 1945), avec l’aide du Conseil international des monuments et des sites (ICOMOS), a amorcé la préparation d’un projet de convention sur la protection du patrimoine culturel. Le « <B>Patrimoine de l’Humanité</B> », ou « <B>Patrimoine mondial de l’UNESCO</B> », était né. 
 
@@ -28,8 +28,8 @@ Depuis sa création, l’UNESCO s’efforce de préserver le patrimoine afin que
 -	La <B>communication</B> : développer la communication pour sensibiliser le public et l’alerter sur la fragilité et la rareté des biens inscrits et encourager sa participation et son appui au patrimoine mondial pour permettre la pérennité des biens pour les générations futures.
 
 -	Les <B>communautés</B> : valoriser le rôle des communautés dans la mise en œuvre de la Convention du patrimoine mondial.
-
-    2)	Avantages de la ratification 
+   
+<B>2) Avantages de la ratification</B>
 
 Par ailleurs, de nombreux <B>avantages</B> découlent ainsi d’une telle ratification. 
 
@@ -49,7 +49,7 @@ Précisément, la Convention fondatrice de 1972 dispose que les États parties s
 Les territoires abritant des biens peuvent également se voir accorder l’assistance d’urgence permise par le <B>Fonds d’Urgence pour le Patrimoine</B> qui vise à réparer les dommages causés par les catastrophes naturelles ou par l’activité humaine et ainsi protéger le patrimoine en situation d’urgence.
 Aujourd’hui, les biens inscrits au Patrimoine mondial de l’UNESCO favorisent la coopération internationale autour de projets de conservation du patrimoine qui recueillent de <B>nombreuses aides financières</B>.
 
-  B)	<B>Les moyens d’action de l’UNESCO vis-à-vis de la protection, de la conservation et de la restauration du patrimoine</B>
+ <B> B)	Les moyens d’action de l’UNESCO vis-à-vis de la protection, de la conservation et de la restauration du patrimoine</B>
 
 L’UNESCO institue, à travers l’<B>article 5 de la Convention du patrimoine mondial</B>, une liste de moyens à mettre en œuvre par les États parties afin d'assurer la protection, la conservation et la mise en valeur aussi efficaces et actives que possible du patrimoine culturel et naturel situé sur leur territoire. Il est ainsi demandé aux États parties :
 
