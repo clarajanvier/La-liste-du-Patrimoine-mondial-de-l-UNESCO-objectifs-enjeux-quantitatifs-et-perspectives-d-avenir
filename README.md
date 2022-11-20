@@ -3,7 +3,7 @@ La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et p
 I) Stratégie globale
   A) Historique de la création de la base de données
   
-II) <u><B>Autour de la base de données : objectifs et enjeux de la politique de protection patrimoniale</u></B>
+II) <u>Autour de la base de données : objectifs et enjeux de la politique de protection patrimoniale</u>
 
   A)	Pourquoi inscrire les monuments au patrimoine mondial de l’UNESCO : enjeux historiques et usages actuels
 
