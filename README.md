@@ -156,7 +156,7 @@ Au-delà de ces quelques limites, les sites inscrits au Patrimoine mondial de l�
 Un autre obstacle à leur protection est la montée du tourisme par le biais de l’usage du numérique et notamment des réseaux sociaux. Vincent Bailly le rappelait : internet a favorisé à présenter le vignoble en terrasse de Lavaux comme un site touristique, parsemé de grands lacs et propice à la réalisation de belles photographies. Il faut rappeler que le vignoble a bien été inscrit pour la spécificité de sa structure et non pour ses paysages uniques qui inciteraient à un excès de tourisme. Les conflits guerriers destructeurs, le changement climatique et la surfréquentation sont donc des préoccupations actuelles et d’avenir pour l’UNESCO. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<B>Entretien avec Vincent Bailly, Directeur de Lavaux Patrimoine mondial & Gestionnaire du site « Lavaux, vignoble en terrasses » inscrit au Patrimoine mondial de l’UNESCO</B>
+<B>Entretien avec Vincent Bailly, Directeur de Lavaux Patrimoine mondial & Gestionnaire du site « Lavaux, vignoble en terrasses », inscrit au Patrimoine mondial de l’UNESCO</B>
 
 - <B>Avez-vous constaté des changements depuis son inscription et qu’a apportée cette inscription au Patrimoine mondial de l'UNESCO pour le site de Lavaux ?</B>
 
