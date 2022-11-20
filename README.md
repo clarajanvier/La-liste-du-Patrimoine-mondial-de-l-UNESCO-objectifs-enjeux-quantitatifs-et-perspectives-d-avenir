@@ -138,7 +138,7 @@ Pendant la pandémie de Covid-19 et dans le cadre de la campagne #ShareOurHerita
 
 -	La préservation des biens inscrits est permise par le <B>renforcement des liens entre le patrimoine et l’éducation</B>. A titre d’exemples, le Programme d’Education des jeunes au Patrimoine Mondial a permis à plus de 3500 jeunes volontaires d’apprendre la valeur du patrimoine en participant à 359 camps de jeunes dans 61 pays. Des jeunes provenant de 17 pays du monde arabe ont quant à eux participé au Forum Arabe des Jeunes Professionnels du Patrimoine Mondial en Décembre 2019. Ces jeunes ont ainsi été sensibilisés aux liens entre la construction de la paix et la protection, la préservation et la promotion du Patrimoine Mondial.
 
-<B>III) Quel avenir pour la liste du patrimoine mondial de l’Unesco : perspectives et enjeux futurs</B>
+<B>III) Quel avenir pour la liste du patrimoine mondial de l’UNESCO : perspectives et enjeux futurs</B>
 
 Comme nous l’avons vu, les critères de l’UNESCO s’étant élargis, le nombre de biens inscrits a corollairement augmenté. Tandis que les biens inscrits étaient initialement retenus de par leur caractère architecturalement ou naturellement remarquable, l’élargissement des critères a permis à d’autres types de biens d’obtenir le label UNESCO. 
 
