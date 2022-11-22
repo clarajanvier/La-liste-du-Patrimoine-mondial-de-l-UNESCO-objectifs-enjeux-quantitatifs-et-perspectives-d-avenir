@@ -8,9 +8,9 @@ Nous remercions vivement <B>Vincent Bailly</B>, gestionnaire du site “Lavaux, 
 
 <B>La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir</B>
 
-<B>I) Définition du Patrimoine mondial de l’UNESCO</B>
+# <B>I) Définition du Patrimoine mondial de l’UNESCO</B>
 
-<B>A) Historique de la création et critères de sélection</B>
+## <B>A) Historique de la création et critères de sélection</B>
  
 L’idée d’un patrimoine mondial tire son origine de la <B>conception antique des 7 merveilles du monde</B>. Sa forme actuelle fait suite à plusieurs évènements. En 1954, la Convention de La Haye, premier traité pour la protection des biens culturels en cas de conflit armé, est signée. Puis, en 1964, l'UNESCO entreprend les travaux de sauvetage des temples d'Abou Simbel contre la montée des eaux du lac Nasser, à la suite de la construction du haut barrage d'Assouan en Égypte. Le succès de cette coopération internationale de grande envergure a été suivi d’autres campagnes de sauvegarde, notamment pour sauver Venise et sa lagune (Italie) et les ruines archéologiques de Mohenjo Daro (Pakistan), ou encore pour restaurer l'Ensemble de Borobudur (Indonésie). Ces campagnes exceptionnelles ont attiré l’attention sur le fait que partout dans le monde, certains endroits ont une <B>valeur exceptionnelle</B> pour l’Humanité entière et doivent donc être protégés contre des dangers tels que les conflits armés, la destruction délibérée, la vie sociale, la pression économique, les catastrophes naturelles et le changement climatique. En raison de la valeur immense du patrimoine pour les générations présentes et futures, contrer les menaces grandissantes auxquelles il fait actuellement face n’a jamais été aussi important. Ainsi, en 1965, les Etats-Unis demandent la création d’une Fondation mondiale pour préserver les sites culturels et naturels.
 
@@ -20,7 +20,7 @@ Enfin, en 1972 est signée la Convention pour la protection du Patrimoine mondia
 
 Le <B>patrimoine culturel mondial</B> comprend des monuments, des sites urbains ou archéologiques, ou des sites qui combinent le travail de l’homme et de la nature, tandis que le <B>patrimoine naturel</B> inclut des caractéristiques naturelles, des formations géographiques ou des sites naturels. En considérant le patrimoine sous ses aspects culturels aussi bien que naturels, la Convention nous rappelle l’interaction entre l’être humain et la nature et la nécessité fondamentale de préserver l’équilibre entre les deux. Des biens au caractère mixte (présentant une nature à la fois culturelle et naturelle) sont également protégés.
 
-<B>B) Objectifs et définition des critères de sélection</B>
+## <B>B) Objectifs et définition des critères de sélection</B>
 
 Depuis sa création, l’UNESCO s’efforce de préserver le patrimoine afin que les générations futures puissent profiter, bénéficier et apprendre de l’héritage du passé, comme en témoigne la Convention de 1972 qui dispose : <I>« Le patrimoine est l'héritage du passé dont nous profitons aujourd'hui et que nous transmettons aux générations à venir. Nos patrimoines culturel et naturel sont deux sources irremplaçables de vie et d'inspiration »</I>. Son action est toujours guidée par des objectifs prédominants qui reposent sur la volonté de sensibiliser sur les ravages des deux guerres mondiales, de promouvoir le dialogue et l’amitié entre les peuples et d’assurer durablement la paix. La Convention du Patrimoine mondial revêt <B>5 objectifs stratégiques<B>, aussi appelés les <B>« 5 C »</B> afin de faire rayonner ces ambitions historiques. 
  
@@ -56,7 +56,7 @@ Pour mener à bien l'objectif principal de La liste du Patrimoine mondial de fai
  
 (x) Contenir les habitats naturels les plus représentatifs et les plus importants pour la conservation in situ de la diversité biologique, y compris ceux où survivent des espèces menacées ayant une valeur universelle exceptionnelle du point de vue de la science ou de la conservation.
 
-<B>C) Résultat de l’inscription</B>
+## <B>C) Résultat de l’inscription</B>
 
 La conservation, la gestion et la transmission aux générations futures des biens inscrits sur la Liste du Patrimoine mondial incombent en premier lieu à l’État partie signataire de la convention. Cependant l’inscription sur la liste postule que ces biens appartiennent également à l’« Humanité » et sont ainsi placés sous une sorte de sauvegarde internationale. Il y a donc un système de coopération et d’assistance pour aider l’État partie, notamment d'un point de vue financier et matériel. Effectivement, un avantage majeur de la ratification, en particulier pour les pays en développement, est d’avoir accès au Fonds du patrimoine mondial. Chaque année, environ quatre millions de dollars EU sont alloués pour aider des Etats parties à identifier, préserver et promouvoir des sites du Patrimoine mondial.
  
@@ -64,7 +64,7 @@ Les sites inscrits sur la Liste du Patrimoine mondial bénéficient aussi de l�
 
 Enfin, l’inscription d’un site sur la Liste du Patrimoine mondial entraîne une plus grande sensibilisation du public au site et à ses valeurs exceptionnelles, ce qui renforce les activités touristiques sur le site et peuvent constituer une source majeure de fonds pour le site et l’économie locale.
  
-<B>D) Organisation</B>
+## <B>D) Organisation</B>
 
 L’<B>Assemblée générale des États parties</B> à la Convention du Patrimoine mondial est composée de représentants de tous les États parties à la Convention du Patrimoine mondial. Elle se réunit tous les deux ans lors des sessions de la Conférence générale de l’UNESCO. Chaque État y dispose d’une voix, quelles que soient sa taille ou l’importance de sa contribution au Fonds du patrimoine mondial.
 
@@ -74,7 +74,7 @@ Le <B>Comité du Patrimoine mondial</B> est composé de représentants de 21 Ét
  
 Le Comité est responsable de la <B>mise en œuvre de la Convention du Patrimoine mondial</B>, détermine l’<B>utilisation du Fonds du patrimoine mondial</B> et alloue l’<B>assistance financière</B> suite aux demandes des États parties. C’est à lui de décider <B>si un site est accepté</B> pour inscription sur la Liste du Patrimoine mondial. Il examine les rapports sur l’état de conservation des sites inscrits et demande aux États parties de prendre des mesures lorsque les sites ne sont pas correctement gérés. 
 
-<B>E) Processus d’inscription</B>
+## <B>E) Processus d’inscription</B>
 
 Seuls les pays qui ont signé la Convention du Patrimoine mondial et se sont par-là même engagés à protéger leur patrimoine naturel et culturel peuvent soumettre des propositions d’inscription de biens situés sur leur territoire sur la Liste du Patrimoine mondial.
  
@@ -86,7 +86,7 @@ Les biens proposés pour inscription sur la Liste du Patrimoine mondial sont év
  
 Une fois qu’un site a été proposé et évalué, c’est au <B>Comité du Patrimoine mondial</B> qu’appartient de prendre la <B>décision finale</B> concernant son inscription, à l’aune des critères de sélection précités. Une fois par an, le Comité se réunit pour décider quels sites seront inscrits sur la Liste du Patrimoine mondial. 
 
-<B>F) État des lieux actuel</B>
+## <B>F) État des lieux actuel</B>
 
 A ce jour, 194 pays sont signataires de la convention, 1154 biens sont listés au Patrimoine mondial dans 167 pays. Parmi ces 1154 biens, 897 sont des biens culturels, 218 des biens naturels et 39 des biens mixtes. 
  
@@ -97,9 +97,9 @@ A ce jour, 194 pays sont signataires de la convention, 1154 biens sont listés a
 Les États possédant le plus grand nombre de biens inscrit au Patrimoine mondial sont l’Italie (58), la Chine (56), L’Allemagne (51), la France (49), l’Espagne (49), l’Inde (40), le Mexique (35), le Royaume-Uni (33), la Russie (30) et l’Iran (26).
 
 
-<B>II) Autour de la base de données : avantages de la politique de protection patrimoniale et moyens d’action</B>
+# <B>II) Autour de la base de données : avantages de la politique de protection patrimoniale et moyens d’action</B>
 
-<B>A)	Les avantages de la ratification</B>
+## <B>A)	Les avantages de la ratification</B>
 
 De nombreux <B>avantages</B> découlent de l’inscription d’un bien au Patrimoine mondial de l’UNESCO. 
 
@@ -119,7 +119,7 @@ Précisément, la Convention fondatrice de 1972 dispose que les États parties s
 Les territoires abritant des biens peuvent également se voir accorder l’assistance d’urgence permise par le <B>Fonds d’Urgence pour le Patrimoine</B> qui vise à réparer les dommages causés par les catastrophes naturelles ou par l’activité humaine et ainsi protéger le patrimoine en situation d’urgence.
 Aujourd’hui, les biens inscrits au Patrimoine mondial de l’UNESCO favorisent la coopération internationale autour de projets de conservation du patrimoine qui recueillent de <B>nombreuses aides financières</B>.
 
- <B> B)	Les moyens d’action de l’UNESCO vis-à-vis de la protection, de la conservation et de la restauration du patrimoine</B>
+ ## <B> B)	Les moyens d’action de l’UNESCO vis-à-vis de la protection, de la conservation et de la restauration du patrimoine</B>
 
 L’UNESCO institue, à travers l’<B>article 5 de la Convention du Patrimoine mondial</B>, une liste de moyens à mettre en œuvre par les États parties afin d'assurer la protection, la conservation et la mise en valeur aussi efficaces et actives que possible du patrimoine culturel et naturel situé sur leur territoire. Il est ainsi demandé aux États parties :
 
@@ -144,9 +144,9 @@ Pendant la pandémie de Covid-19 et dans le cadre de la campagne #ShareOurHerita
 
 -	La préservation des biens inscrits est permise par le <B>renforcement des liens entre le patrimoine et l’éducation</B>. A titre d’exemples, le Programme d’Education des jeunes au Patrimoine Mondial a permis à plus de 3500 jeunes volontaires d’apprendre la valeur du patrimoine en participant à 359 camps de jeunes dans 61 pays. Des jeunes provenant de 17 pays du monde arabe ont quant à eux participé au Forum Arabe des Jeunes Professionnels du Patrimoine mondial en décembre 2019. Ces jeunes ont ainsi été sensibilisés aux liens entre la construction de la paix et la protection, la préservation et la promotion du Patrimoine mondial.
 
-<B>III) Quel avenir pour la Liste du Patrimoine mondial de l’UNESCO : perspectives et enjeux futurs</B>
+# <B>III) Quel avenir pour la Liste du Patrimoine mondial de l’UNESCO : perspectives et enjeux futurs</B>
     
-<B>A) Une diversification des sites inscrits au Patrimoine mondial de l’UNESCO<B/>
+## <B>A) Une diversification des sites inscrits au Patrimoine mondial de l’UNESCO<B/>
 
 Comme nous l’avons vu, les critères de l’UNESCO s’étant élargis, le nombre de biens inscrits a corollairement augmenté. Tandis que les biens inscrits étaient initialement retenus de par leur caractère architecturalement ou naturellement remarquable, l’élargissement des critères a permis à d’autres types de biens d’obtenir le label UNESCO. 
 
@@ -154,7 +154,7 @@ Ainsi, il est plus fréquent de constater l’inscription de biens contemporains
 
 Il est ainsi possible de constater que la suppression des sites du Patrimoine mondial de l’UNESCO est menacée lorsque le placement de ces sites ou les modifications qui leur sont apportées perturbent l’harmonie du paysage naturel. L’UNESCO, au XIXème siècle, tente plus que jamais de rétablir une frontière entre la modernité et la nature et pose ainsi les limites de l’ère industrielle et urbaniste. Dans ce contexte, on comprend mieux les controverses des œuvres de Le Corbusier : l’UNESCO a-t-il raison d’assurer leur labellisation alors même que ces derniers pourraient menacer l’harmonie des paysages ? 
     
-<B>B) Les limites de la labellisation UNESCO ? <B/>
+## <B>B) Les limites de la labellisation UNESCO ? <B/>
     
 C’est à travers ce débat que l’on comprend que les dix critères d’inscription d’un site au Patrimoine mondial de l'UNESCO peuvent sembler parfois entrer en contradiction. La subjectivité des choix opérés par le Comité peut alors se présenter comme une réelle limite de la labellisation : la base de donnée ne sélectionne pas des sites à travers des critères très précis permettant de sélectionner les sites automatiquement comme le ferait un logiciel de Machine Learning, mais la sélection se fait par l'intermédiaire d’un comité de personnes dotées de conscience, de subjectivité et de libre-arbitre. Il est cependant nécessaire de rappeler que sans cette subjectivité, la base de données ne pourrait refléter le caractère authentique et extraordinaire des sites. Pour ces raisons, une robotisation de l’inscription des sites au Patrimoine mondial de l’UNESCO pourrait paraître impossible, voire absurde. Rappelons tout de même que la subjectivité des choix de sites est nuancée par cette organisation en comité : ce sont les 21 États parties à la Convention qui acceptent ou non l’inscription d’un site à la Liste du Patrimoine mondial. Il n’y a donc pas une seule volonté individuelle qui choisit, arbitrairement, de faire entrer un bien dans la catégorie. C’est à travers de longues délibérations et votes que la base de données s’agrandit. 
 
