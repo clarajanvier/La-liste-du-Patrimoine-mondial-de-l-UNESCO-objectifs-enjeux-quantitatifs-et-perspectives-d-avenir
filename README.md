@@ -10,7 +10,7 @@ Nous remercions vivement <B>Vincent Bailly</B>, gestionnaire du site “Lavaux, 
 
 # <B>I) Définition du Patrimoine mondial de l’UNESCO</B>
 
-## <B>A) Historique de la création et critères de sélection</B>
+## <B>A) Historique de la création du Patrimoine mondial de l'UNESCO</B>
  
 L’idée d’un patrimoine mondial tire son origine de la <B>conception antique des 7 merveilles du monde</B>. Sa forme actuelle fait suite à plusieurs évènements. En 1954, la Convention de La Haye, premier traité pour la protection des biens culturels en cas de conflit armé, est signée. Puis, en 1964, l'UNESCO entreprend les travaux de sauvetage des temples d'Abou Simbel contre la montée des eaux du lac Nasser, à la suite de la construction du haut barrage d'Assouan en Égypte. Le succès de cette coopération internationale de grande envergure a été suivi d’autres campagnes de sauvegarde, notamment pour sauver Venise et sa lagune (Italie) et les ruines archéologiques de Mohenjo Daro (Pakistan), ou encore pour restaurer l'Ensemble de Borobudur (Indonésie). Ces campagnes exceptionnelles ont attiré l’attention sur le fait que partout dans le monde, certains endroits ont une <B>valeur exceptionnelle</B> pour l’Humanité entière et doivent donc être protégés contre des dangers tels que les conflits armés, la destruction délibérée, la vie sociale, la pression économique, les catastrophes naturelles et le changement climatique. En raison de la valeur immense du patrimoine pour les générations présentes et futures, contrer les menaces grandissantes auxquelles il fait actuellement face n’a jamais été aussi important. Ainsi, en 1965, les Etats-Unis demandent la création d’une Fondation mondiale pour préserver les sites culturels et naturels.
 
