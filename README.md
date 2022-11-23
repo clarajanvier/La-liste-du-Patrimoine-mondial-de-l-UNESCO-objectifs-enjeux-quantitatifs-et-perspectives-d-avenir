@@ -146,7 +146,7 @@ Pendant la pandémie de Covid-19 et dans le cadre de la campagne #ShareOurHerita
 
 # <B>III) Quel avenir pour la Liste du Patrimoine mondial de l’UNESCO : perspectives et enjeux futurs</B>
     
-## <B>A) Une diversification des sites inscrits au Patrimoine mondial de l’UNESCO<B/>
+## <B>A) Une diversification des sites inscrits au Patrimoine mondial de l’UNESCO</B>
 
 Comme nous l’avons vu, les critères de l’UNESCO s’étant élargis, le nombre de biens inscrits a corollairement augmenté. Tandis que les biens inscrits étaient initialement retenus de par leur caractère architecturalement ou naturellement remarquable, l’élargissement des critères a permis à d’autres types de biens d’obtenir le label UNESCO. 
 
@@ -154,7 +154,7 @@ Ainsi, il est plus fréquent de constater l’inscription de biens contemporains
 
 Il est ainsi possible de constater que la suppression des sites du Patrimoine mondial de l’UNESCO est menacée lorsque le placement de ces sites ou les modifications qui leur sont apportées perturbent l’harmonie du paysage naturel. L’UNESCO, au XIXème siècle, tente plus que jamais de rétablir une frontière entre la modernité et la nature et pose ainsi les limites de l’ère industrielle et urbaniste. Dans ce contexte, on comprend mieux les controverses des œuvres de Le Corbusier : l’UNESCO a-t-il raison d’assurer leur labellisation alors même que ces derniers pourraient menacer l’harmonie des paysages ? 
     
-## <B>B) Les limites de la labellisation UNESCO ? <B/>
+## <B>B) Les limites de la labellisation UNESCO ? </B>
     
 C’est à travers ce débat que l’on comprend que les dix critères d’inscription d’un site au Patrimoine mondial de l'UNESCO peuvent sembler parfois entrer en contradiction. La subjectivité des choix opérés par le Comité peut alors se présenter comme une réelle limite de la labellisation : la base de donnée ne sélectionne pas des sites à travers des critères très précis permettant de sélectionner les sites automatiquement comme le ferait un logiciel de Machine Learning, mais la sélection se fait par l'intermédiaire d’un comité de personnes dotées de conscience, de subjectivité et de libre-arbitre. Il est cependant nécessaire de rappeler que sans cette subjectivité, la base de données ne pourrait refléter le caractère authentique et extraordinaire des sites. Pour ces raisons, une robotisation de l’inscription des sites au Patrimoine mondial de l’UNESCO pourrait paraître impossible, voire absurde. Rappelons tout de même que la subjectivité des choix de sites est nuancée par cette organisation en comité : ce sont les 21 États parties à la Convention qui acceptent ou non l’inscription d’un site à la Liste du Patrimoine mondial. Il n’y a donc pas une seule volonté individuelle qui choisit, arbitrairement, de faire entrer un bien dans la catégorie. C’est à travers de longues délibérations et votes que la base de données s’agrandit. 
 
