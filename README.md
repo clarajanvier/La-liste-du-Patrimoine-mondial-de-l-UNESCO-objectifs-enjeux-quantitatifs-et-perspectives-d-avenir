@@ -119,7 +119,7 @@ Précisément, la Convention fondatrice de 1972 dispose que les États parties s
 Les territoires abritant des biens peuvent également se voir accorder l’assistance d’urgence permise par le <B>Fonds d’Urgence pour le Patrimoine</B> qui vise à réparer les dommages causés par les catastrophes naturelles ou par l’activité humaine et ainsi protéger le patrimoine en situation d’urgence.
 Aujourd’hui, les biens inscrits au Patrimoine mondial de l’UNESCO favorisent la coopération internationale autour de projets de conservation du patrimoine qui recueillent de <B>nombreuses aides financières</B>.
 
- ## <B> B)	Les moyens d’action de l’UNESCO vis-à-vis de la protection, de la conservation et de la restauration du patrimoine</B>
+ ## <B>B)	Les moyens d’action de l’UNESCO vis-à-vis de la protection, de la conservation et de la restauration du patrimoine</B>
 
 L’UNESCO institue, à travers l’<B>article 5 de la Convention du Patrimoine mondial</B>, une liste de moyens à mettre en œuvre par les États parties afin d'assurer la protection, la conservation et la mise en valeur aussi efficaces et actives que possible du patrimoine culturel et naturel situé sur leur territoire. Il est ainsi demandé aux États parties :
 
