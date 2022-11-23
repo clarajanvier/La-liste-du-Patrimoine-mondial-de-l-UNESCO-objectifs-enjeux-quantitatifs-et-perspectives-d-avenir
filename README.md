@@ -6,7 +6,7 @@ L’UNESCO produit et fournit régulièrement des <B> données et chiffres </B>,
 Nous remercions vivement <B>Vincent Bailly</B>, gestionnaire du site “Lavaux, vignoble en terrasses” inscrit au Patrimoine mondial de l’UNESCO; <B> Alexandre Arnodo</B>, directeur de la Citadelle de Besançon inscrite au Patrimoine mondial de l’UNESCO ainsi que <B>Mohamed Hamada</B>, attaché permanent de l’Union des Comores auprès de l’UNESCO, qui ont largement contribué à l’apport de connaissances empiriques sur le sujet. 
 
 
-<B>La liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir</B>
+<B>La Liste du Patrimoine mondial de l'UNESCO : objectifs, enjeux quantitatifs et perspectives d'avenir</B>
 
 # <B>I) Définition du Patrimoine mondial de l’UNESCO</B>
 
@@ -16,7 +16,7 @@ L’idée d’un patrimoine mondial tire son origine de la <B>conception antique
 
 Par conséquent, l’UNESCO, avec l’aide du Conseil international des monuments et des sites (ICOMOS), a amorcé la préparation d’un projet de convention sur la protection du patrimoine culturel. Le <B>« Patrimoine de l’Humanité »</B>, ou <B>« Patrimoine mondial de l’UNESCO »</B>, était né. 
  
-Enfin, en 1972 est signée la Convention pour la protection du Patrimoine mondial, culturel et naturel, suivie en 1976 de la création du Comité du patrimoine mondial et en 1978 des premiers sites inscrits sur la liste du Patrimoine mondial. 
+Enfin, en 1972 est signée la Convention pour la protection du Patrimoine mondial, culturel et naturel, suivie en 1976 de la création du Comité du patrimoine mondial et en 1978 des premiers sites inscrits sur la Liste du Patrimoine mondial. 
 
 Le <B>patrimoine culturel mondial</B> comprend des monuments, des sites urbains ou archéologiques, ou des sites qui combinent le travail de l’homme et de la nature, tandis que le <B>patrimoine naturel</B> inclut des caractéristiques naturelles, des formations géographiques ou des sites naturels. En considérant le patrimoine sous ses aspects culturels aussi bien que naturels, la Convention nous rappelle l’interaction entre l’être humain et la nature et la nécessité fondamentale de préserver l’équilibre entre les deux. Des biens au caractère mixte (présentant une nature à la fois culturelle et naturelle) sont également protégés.
 
@@ -34,7 +34,7 @@ Depuis sa création, l’UNESCO s’efforce de préserver le patrimoine afin que
 
 - Les <B>communautés</B> : valoriser le rôle des communautés dans la mise en œuvre de la Convention du Patrimoine mondial.
  
-Pour mener à bien l'objectif principal de La liste du Patrimoine mondial de faire connaître et de protéger les sites que l’Organisation considère comme exceptionnels, des <B>critères de sélection</B> ont été mis en place. À l'origine, seuls existaient les sites culturels (1978), dont l'inscription sur la liste était régie par 6 critères. Puis, dans un souci de rééquilibrer la localisation du Patrimoine mondial entre les continents, il a été décidé d’intégrer les sites naturels avec 4 critères qui leur étaient propres. Enfin, en 2005, tous les critères ont été fondus en 10 critères uniques applicables à tous les sites. Chaque bien doit satisfaire l’un des critères suivants :
+Pour mener à bien l'objectif principal de la Liste du Patrimoine mondial de faire connaître et de protéger les sites que l’Organisation considère comme exceptionnels, des <B>critères de sélection</B> ont été mis en place. À l'origine, seuls existaient les sites culturels (1978), dont l'inscription sur la Liste était régie par 6 critères. Puis, dans un souci de rééquilibrer la localisation du Patrimoine mondial entre les continents, il a été décidé d’intégrer les sites naturels avec 4 critères qui leur étaient propres. Enfin, en 2005, tous les critères ont été fondus en 10 critères uniques applicables à tous les sites. Chaque bien doit satisfaire l’un des critères suivants :
 
 (i) Représenter un chef-d'œuvre du génie créateur humain ;
  
